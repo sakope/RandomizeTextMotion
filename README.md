@@ -1,0 +1,2 @@
+# RandomizeTextMotion
+文字をパタパタとランダムに変化しながら確定させる、Unity用のスクリプト。
